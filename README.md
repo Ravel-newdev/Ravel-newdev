@@ -14,17 +14,9 @@ Construção de dashboards para monitoramento de indicadores de negócio
 2.Desenvolvimento de projetos aplicados em dados e sistemas web
 
 🛠️ Tecnologias & Ferramentas
-<div align="left">
-  https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white
-  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-  https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-  https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-  https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-  https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
-  https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-  https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-</div>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=postgres,python,js,html,css,php,aws,git,github&theme=dark" />
+  </div>
 
 📊 GitHub Stats
 <div align="left">
